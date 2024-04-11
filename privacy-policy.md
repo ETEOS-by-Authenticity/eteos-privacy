@@ -12,7 +12,7 @@ Vous pouvez contacter ETEOS directement grâce au formulaire de mise en contact.
 
 L'hébergement du Site est assuré par les sociétés : 
 
-    * IONOS, EURL, entreprise unipersonnelle à responsabilité limitée, immatriculée au Registre du Commerce et des Sociétés de SARREGUEMINES sous le numéro 431 303 775 00016, dont le siège social est situé 7 PL DE LA GARE 57200 SARREGUEMINES; 
+* IONOS, EURL, entreprise unipersonnelle à responsabilité limitée, immatriculée au Registre du Commerce et des Sociétés de SARREGUEMINES sous le numéro 431 303 775 00016, dont le siège social est situé 7 PL DE LA GARE 57200 SARREGUEMINES; 
 
  
 
@@ -20,7 +20,7 @@ L'hébergement du Site est assuré par les sociétés :
 
 ### VERSION MISE A JOUR LE 26 MAI 2023. 
 
-**Périmètre de la politique de protection des données personnelles de ETEOS **
+**Périmètre de la politique de protection des données personnelles de ETEOS**
 
 Pour exercer son commerce ETEOS a connaissance de certaines données personnelles de ses clients et cocontractants. Il traite ces données et est en cette qualité responsable de ce traitement. 
 
@@ -30,7 +30,7 @@ Cette politique de protection a pour objectif de vous informer sur les méthodes
 
  
 
-**Identité du responsable de traitement **
+**Identité du responsable de traitement**
 
 Les données personnelles collectées sur le site de ETEOS sont traitées par : 
 
@@ -46,17 +46,17 @@ Certaines données sont collectées automatiquement du fait de vos actions sur l
 
 Nous collectons les informations que vous nous fournissez notamment lors : 
 
-    * de la création d’un compte, 
+* de la création d’un compte, 
 
-    * de l’achat ou de la vente d’un objet, 
+* de l’achat ou de la vente d’un objet, 
 
-    * de la navigation sur le site et de la consultation d’objets, 
+* de la navigation sur le site et de la consultation d’objets, 
 
-    * de la prise de contact avec le service client. 
+* de la prise de contact avec le service client. 
 
  
 
-** Destinataires des données collectées **
+**Destinataires des données collectées**
 
 Les données collectées sur le site sont destinées à ETEOS. Elles peuvent être transmises aux sociétés sous-traitantes auxquelles ETEOS peut faire appel dans le cadre de l’exécution de ses services et notamment notre partenaire de paiement sécurisé ALMA, PAYPAL, SHOPIFY. ETEOS ne vend ni ne loue vos données personnelles à des tiers à des fins de marketing, sans votre consentement formel. 
 
@@ -68,25 +68,25 @@ Les sous-traitants de ETEOS conformément à nos obligations réglementaires fra
 
  
 
-** Finalités pour lesquelles les données personnelles sont collectées **
+**Finalités pour lesquelles les données personnelles sont collectées**
 
 L’objectif principal de la collecte de vos données personnelles est de vous offrir une expérience sûre, optimale, efficace et personnalisée. Vous acceptez que nous puissions utiliser vos données personnelles pour : 
 
-    fournir nos services, 
+* fournir nos services, 
 
-    résoudre les éventuels problèmes et litiges, 
+* résoudre les éventuels problèmes et litiges, 
 
-    personnaliser, évaluer, améliorer nos services et contenus, 
+* personnaliser, évaluer, améliorer nos services et contenus, 
 
-    vous informer sur nos services et ceux de nos sociétés partenaires, par du marketing ciblé et/ou des offres promotionnelles, 
+* vous informer sur nos services et ceux de nos sociétés partenaires, par du marketing ciblé et/ou des offres promotionnelles, 
 
-    empêcher, détecter et enquêter sur toutes activités potentiellement interdites et illégales et faire appliquer nos conditions générales de vente et d’utilisation, 
+* empêcher, détecter et enquêter sur toutes activités potentiellement interdites et illégales et faire appliquer nos conditions générales de vente et d’utilisation, 
 
-    respecter nos obligations légales et règlementaires. 
+* respecter nos obligations légales et règlementaires. 
 
  
 
-** Durée de conservation des données personnelles **
+**Durée de conservation des données personnelles**
 
 ETEOS ne conserve pas vos données personnelles pour une durée excédant les finalités du traitement. Les périodes de conservation des données personnelles sont amenées à varier en fonction des catégories de données personnelles collectées. 
 
@@ -100,7 +100,7 @@ Lorsque vos données personnelles sont collectées en raison d’une obligation 
 
  
 
-** Protection des données personnelles des enfants **
+**Protection des données personnelles des enfants**
 
 Les produits mis en vente par ETEOS ne sont pas destinés aux enfants. Un enfant au sens du Règlement sur la protection des données personnelles est une personne entre 13 et 16 ans en fonction des différents Etats membres de l’Union européenne. 
 
@@ -110,7 +110,7 @@ bonjour@eteos.io
 
  
 
-** Cookies **
+**Cookies**
 
 Les cookies sont des fichiers enregistrés sur le disque dur de votre ordinateur lors de votre navigation sur Internet et notamment sur le site. Un cookie ne sert pas à recueillir des données personnelles à votre insu mais à enregistrer des informations relatives à votre navigation sur le site qui pourront être directement lues par ETEOS lors de vos visites et requêtes ultérieures sur le site (telles que par exemple : les pages que vous avez consultées, ou la date et l’heure de la consultation de ces pages). 
 
@@ -130,7 +130,7 @@ ETEOS n’assume aucune responsabilité quant à l’éventuelle utilisation de 
 
  
 
-** Vos droits résultants de la loi informatique et libertés et du Règlement sur la protection des données personnelles. **
+**Vos droits résultants de la loi informatique et libertés et du Règlement sur la protection des données personnelles.**
 
 Conformément à ces textes vous disposez d’un droit d'accès, de rectification, de suppression, d’opposition, de limitation du traitement et le cas échéant d’un droit à la portabilité des données vous concernant, ainsi que du droit de définir le sort de vos données après la mort. 
 
@@ -142,13 +142,13 @@ Si vous vous opposez pour des motifs légitimes au traitement des données vous 
 
  
 
-** Données bancaires et système d'analyse des commandes (détection de la fraude) **
+**Données bancaires et système d'analyse des commandes (détection de la fraude)**
 
 Les informations bancaires en rapport avec votre commande font l'objet d'un traitement automatisé de données dont les responsables sont ALMA – France et le GIE Carte Bancaire dans le cadre du protocole 3D Secure. Ce traitement automatisé de données a pour finalité de permettre l’authentification des personnes procédant à un paiement et de lutter contre la fraude à la carte bancaire. La survenance d'un impayé au motif d'une utilisation frauduleuse d'une carte bancaire entraînera l'inscription des coordonnées en rapport avec votre commande associée à cet impayé au sein d'un fichier incident de paiement mis en œuvre par le GIE Carte Bancaire. Une déclaration irrégulière ou une anomalie pourra également faire l'objet d'un traitement spécifique (notamment aux fins de détection de fraude). 
 
  
 
-** Sécurité des données personnelles **
+**Sécurité des données personnelles**
 
 ETEOS protège vos données personnelles et s’astreint à assurer leur confidentialité et leur sécurité. ETEOS a mis en place des mesures de sécurités physiques et organisationnelles pour prévenir l’altération, la destruction ou bien la divulgation de vos données personnelles. 
 
@@ -160,7 +160,7 @@ Pour aider ETEOS à protéger l’intégrité et la confidentialité vos donnée
 
  
 
-** Contact **
+**Contact**
 
 Pour toute question concernant cette politique de protection des données personnelles de ETEOS ou pour toute demande relative à vos données personnelles, vous pouvez envoyer un courrier électronique à l’adresse électronique suivante : 
 
