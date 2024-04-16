@@ -23,154 +23,137 @@ L'hébergement du Site est assuré par les sociétés :
 
 ### VERSION MISE A JOUR LE 16 AVRIL 2024. 
 
-**Périmètre de la politique de protection des données personnelles de ETEOS**
+### ARTICLE 1 – LES DONNÉES PERSONNELLES QUE NOUS TRAITONS EN TANT QUE RESPONSABLES DU TRAITEMENT
+#### Que sont les données personnelles ?
+
+Les données personnelles sont des informations permettant de vous identifier :
+- directement, comme votre nom ou votre adresse e-mail ; votre pays, votre date de naissance ou votre numéro de téléphone ou
+- indirectement, comme votre numéro de client ou votre adresse IP.
+  
+Quels types de données personnelles collectons et traitons-nous en tant que responsables du traitement des données ?
 
-Pour exercer son commerce ETEOS a connaissance de certaines données personnelles de ses clients et cocontractants. Il traite ces données et est en cette qualité responsable de ce traitement. 
+Les données que nous collectons se répartissent en deux catégories : (a) les données que vous nous fournissez et (b) les données que nous collectons par des moyens automatisés.
 
-ETEOS s’engage à protéger vos données personnelles conformément aux réglementations françaises et européennes. 
+À propos des données personnelles que vous nous fournissez
+Nous collectons et traitons les données personnelles que vous nous fournissez directement lorsque vous :
+- Remplissez les formulaires sur notre site Internet ou envoyez-nous un e-mail pour créer votre compte.
+- Abonnez-vous à notre newsletter pour être tenu au courant des dernières actualités, fonctionnalités et événements de notre marque.
+- Demander à recevoir des communiqués de presse ou d’autres demandes de presse.
 
-Cette politique de protection a pour objectif de vous informer sur les méthodes et les moyens utilisés par ETEOS pour collecter vos données personnelles, ainsi que sur les moyens à votre disposition pour faire valoir vos droits sur celles-ci. 
+Dans ce cadre, nous collectons et traitons des données personnelles telles que :
+- Vos coordonnées d'identification et de contact, telles que votre nom (prénom, nom), fonction, raison sociale, adresse e-mail et numéro de téléphone pour vous renseigner sur nos produits et services, répondre à vos questions, vous faire des devis, etc.
+- Le contenu de nos interactions avec vous (demandes d’informations, réponses, devis, etc.).
+- Vos réponses aux enquêtes que nous pourrions vous demander de remplir.
 
- 
+Certaines de ces données sont obligatoires, d'autres sont facultatives. Le caractère obligatoire ou facultatif des données personnelles à fournir est indiqué au moment de la collecte. Si vous refusez de fournir les données obligatoires, nous ne pourrons pas traiter votre demande.
 
-**Identité du responsable de traitement**
+À propos des données personnelles que nous collectons par des moyens automatisés
+Lorsque vous utilisez notre site Internet, nous utilisons des technologies automatisées telles que les cookies pour collecter des données de votre ordinateur ou appareil mobile (téléphone ou tablette) afin de permettre le bon fonctionnement de notre site Internet, mesurer et améliorer les performances de notre site Internet et vous fournir des informations personnalisées. contenu et publicité.
 
-Les données personnelles collectées sur le site de ETEOS sont traitées par : 
+Dans ce cadre, nous collectons vos informations de navigation telles que :
+- Votre appareil et identifiant de connexion (adresse IP, adresse MAC), informations sur le navigateur et le système d'exploitation utilisé, etc.
+- Votre utilisation de notre site Web, notamment les pages de renvoi/sortie, la date/heure et/ou les actions de navigation.
 
-AUTHENTICITY - Société par actions simplifiée. 
+### ARTICLE 3 – COMMENT UTILISONS-NOUS VOS DONNÉES PERSONNELLES ?
+Nous collectons et utilisons vos données personnelles des manières suivantes :
+- À des fins de marketing, pour vous envoyer notre newsletter lorsque vous vous y inscrivez ou exprimez votre consentement à l'utilisation de votre adresse e-mail pour vous tenir au courant des dernières actualités, fonctionnalités et événements de notre marque. Vous pouvez à tout moment vous désinscrire de notre newsletter en cliquant sur le lien de désinscription présent en bas de chaque e-mail ou en faire directement la demande à : bonjour@eteos.io .
+- De déposer des cookies non nécessaires au bon fonctionnement de notre site Internet si vous consentez expressément à un tel traitement.
+- Aux fins suivantes, basées sur notre intérêt commercial légitime :
+1. Assurer le bon fonctionnement de notre site Internet.
+2. Pour assurer la sécurité de nos réseaux.
+3. Améliorer nos produits et services et en développer de nouveaux.
+4. Surveiller la qualité du service et assurer la formation de notre personnel.
+5. Prévenir et lutter contre la fraude, notamment informatique (spamming, hacking, etc.).
+6. Réaliser des statistiques.
+7. Pour défendre nos intérêts devant les tribunaux.
+- Pour respecter nos obligations légales.
 
-Immatriculée au RCS de Paris sous le numéro : 948 152 004 
+### ARTICLE 4 – COMBIEN DE TEMPS CONSERVONS-NOUS VOS DONNÉES PERSONNELLES ?
+Nous conservons vos données personnelles uniquement pendant les périodes suivantes :
+- Pour les utilisateurs de notre site Internet : les données de navigation sont conservées pendant une durée maximale de 25 mois.
 
-163, avenue Ledru-Rollin 75011 PARIS 
+A l'issue des délais mentionnés ci-dessus, certaines de vos données personnelles seront archivées, dans une archive dédiée à accès restreint, dans le respect de nos obligations légales et pour défendre nos droits et intérêts en justice, pendant les durées suivantes :
+- 10 ans à compter de la fin de l'exercice comptable pour les données conservées à des fins comptables, ainsi que pour les documents commerciaux (factures, bons de commande, correspondances commerciales, etc.).
+- En cas de précontentieux, jusqu'à ce que le litige soit réglé à l'amiable ou, à défaut, dès que l'action judiciaire correspondante devient prescrite, étant précisé qu'en droit français, le délai de prescription de droit commun en matière civile et en matière commerciale est de 5 ans.
+- En cas de litige, jusqu'à ce que les recours ordinaires et extraordinaires ne soient plus disponibles contre la décision rendue.
 
-ETEOS collecte et traite les données suivantes : email, civilité, prénom, nom, pays, mot de passe, adresses, numéro(s) de téléphone, adresse IP, données de connexion, données de navigation, les historiques de commandes, les transactions, les réclamations, les incidents, les informations relatives à la livraison, les correspondances sur notre site et les données bancaires ci-après détaillées. 
+À l'issue de cette période supplémentaire, vos données personnelles restantes seront définitivement supprimées de nos systèmes ou anonymisées.
 
-Certaines données sont collectées automatiquement du fait de vos actions sur le site (voir la politique d’utilisation des cookies). 
+### ARTICLE 5 – AVEC QUI PARTAGEONS-NOUS VOS DONNÉES PERSONNELLES ?
+Nous ne louons ni ne vendons vos données personnelles à des tiers.
+Nous pouvons partager vos données personnelles avec :
+- Prestataires de services que nous utilisons pour soutenir notre activité et fournir nos services (par exemple, prestataires de services d'hébergement et de maintenance de notre site Internet, prestataires de services en charge de l'envoi d'e-mails et de newsletters, prestataires de services de gestion des fraudes, etc.). Ces entités sont liées par des obligations contractuelles de garder les informations personnelles confidentielles et ne peuvent les utiliser qu'aux fins pour lesquelles nous leur divulguons les informations.
+- Nos filiales aux fins décrites dans la présente politique de confidentialité.
+- Autres sociétés auxquelles nous pourrions vendre ou céder tout ou partie de nos activités. Vous serez informé par e-mail et/ou par un avis bien visible sur notre site Web de tout changement de propriété ou d'utilisation de vos données personnelles, ainsi que de tout choix que vous pourriez avoir concernant vos données personnelles.
+- Les autorités administratives ou judiciaires ou tout autre tiers autorisé à respecter nos obligations légales.
 
-Nous collectons les informations que vous nous fournissez notamment lors : 
+### ARTICLE 6 – TRANSFERTS DE DONNÉES PERSONNELLES
+Les données personnelles que nous collectons auprès de vous peuvent être stockées, traitées et transférées vers des pays en dehors de l'Espace économique européen (EEE). Par exemple, cela pourrait se produire si l’un de nos prestataires de services est situé dans un pays en dehors de l’EEE. Ces pays peuvent ne pas disposer de lois sur la protection des données équivalentes à celles en vigueur dans l'EEE.
 
-* de la création d’un compte, 
+Si nous transférons ainsi des données personnelles en dehors de l'EEE, nous prendrons les mesures nécessaires pour garantir que vos données personnelles continuent d'être protégées dans le respect des lois et réglementations applicables, notamment en transférant vos données personnelles uniquement à des entreprises établies dans des pays reconnus par la Commission européenne comme fournissant un niveau adéquat de protection de vos données personnelles ou aux organisations avec lesquelles nous avons conclu des accords contractuels pour assurer une protection appropriée de vos données personnelles, y compris les clauses contractuelles types de la Commission européenne ou qui s'engagent à appliquer un code de conduite ou un mécanisme de certification validé par les autorités européennes compétentes.
 
-* de l’achat ou de la vente d’un objet, 
+Pour plus d'informations sur les garanties mises en place, veuillez faire une demande à : bonjour@eteos.io 
 
-* de la navigation sur le site et de la consultation d’objets, 
+### ARTICLE 7 – CHOIX ET DROITS QUI VOUS SONT DISPONIBLES CONCERNANT L'UTILISATION DE VOS DONNÉES PERSONNELLES
+Vous pouvez exercer les droits suivants concernant l’utilisation de vos données personnelles :
+Droit d'accès : vous pouvez obtenir des informations sur le traitement de vos données personnelles et une copie de ces données personnelles:
+- Droit de rectification : si vous estimez que vos données personnelles sont inexactes ou incomplètes, vous pouvez demander qu'elles soient modifiées en conséquence.
+- Droit à l'effacement : vous pouvez exiger l'effacement de vos données personnelles dans la mesure permise par la loi.
+- Droit à la limitation du traitement : vous pouvez demander la limitation du traitement de vos données personnelles.
+- Droit d'opposition : lorsque ce droit est applicable, vous pouvez vous opposer au traitement de vos données personnelles, pour des raisons liées à votre situation particulière. Vous disposez du droit absolu de vous opposer au traitement de vos données personnelles à des fins de prospection commerciale, y compris le profilage lié à une telle prospection.
+- Droit à la portabilité de vos données : lorsque ce droit est applicable, vous avez le droit de vous faire restituer les données personnelles que vous nous avez fournies ou, lorsque cela est techniquement possible, de les transférer à un tiers.
+- Droit de retirer votre consentement : si vous avez donné votre consentement au traitement de vos données personnelles, vous avez le droit de le retirer à tout moment.
+- Enfin, dans certains cas, notamment lorsque vous résidez en France, vous disposez du droit d'établir des directives générales ou particulières concernant le traitement de vos données personnelles en cas de votre décès et de les modifier à tout moment.
 
-* de la prise de contact avec le service client. 
+Vous pouvez exercer les droits listés ci-dessus :
+- soit en nous contactant par courrier à l'adresse suivante : ARIANEE, à l'attention du Délégué à la Protection des Données ; ou
+- en envoyant un e-mail à bonjour@eteos.io .
 
- 
+Lorsque vous exercez l’un de vos droits ci-dessus, nous disposons d’un délai d’un mois après réception de la demande pour y répondre. Ce délai peut être prolongé de 2 mois supplémentaires, si nécessaire, en fonction de la complexité et du nombre de demandes. Dans ce cas, nous vous informerons d'une telle prolongation dans un délai d'un mois à compter de la réception de votre demande, en vous indiquant les raisons du retard.
 
-**Destinataires des données collectées**
+A défaut de réponse d'ARIANEE, si vous n'êtes pas satisfait de la réponse d'ARIANEE ou à tout moment, vous avez le droit d'introduire une réclamation auprès de l'autorité de contrôle compétente, en France, la CNIL (Commission Nationale de l'Informatique et des Libertés ) 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07, Tél : 01 53 73 22 22, www.cnil.fr .
 
-Les données collectées sur le site sont destinées à ETEOS. Elles peuvent être transmises aux sociétés sous-traitantes auxquelles ETEOS peut faire appel dans le cadre de l’exécution de ses services et notamment notre partenaire de paiement sécurisé ALMA, PAYPAL, SHOPIFY. ETEOS ne vend ni ne loue vos données personnelles à des tiers à des fins de marketing, sans votre consentement formel. 
+### ARTICLE 8 – COOKIES
+#### Qu'est-ce qu'un cookie ?
 
-Les sous-traitants de ETEOS conformément à nos obligations réglementaires françaises et européennes sont soumis à des clauses appropriées de protection des données personnelles. 
+Un cookie est un fichier qu'un site Web – lorsqu'il est visité par un utilisateur – demande à votre navigateur de stocker sur votre appareil pour mémoriser des informations vous concernant, telles que votre préférence linguistique.
 
- 
+Les 3 types de cookies que nous utilisons sur notre site Internet :
 
- 
+1°) Cookies strictement nécessaires au fonctionnement de notre site internet
 
- 
+Ces cookies sont nécessaires au bon fonctionnement de notre site Internet. Sans ces cookies, vous ne pourrez pas utiliser notre site normalement.
 
-**Finalités pour lesquelles les données personnelles sont collectées**
+Ces cookies ne nécessitent pas votre consentement préalable pour être déposés sur votre terminal.
 
-L’objectif principal de la collecte de vos données personnelles est de vous offrir une expérience sûre, optimale, efficace et personnalisée. Vous acceptez que nous puissions utiliser vos données personnelles pour : 
+2°) Cookies de performances
 
-* fournir nos services, 
+Sous réserve de votre consentement, nous pouvons déposer des cookies sur votre terminal pour mesurer et améliorer les performances de notre site Internet. 
 
-* résoudre les éventuels problèmes et litiges, 
+Si vous n'autorisez pas ces cookies, nous ne saurons pas quand vous avez visité notre site Web et ne serons pas en mesure de surveiller ses performances.
 
-* personnaliser, évaluer, améliorer nos services et contenus, 
+3°) Ciblage des Cookies
 
-* vous informer sur nos services et ceux de nos sociétés partenaires, par du marketing ciblé et/ou des offres promotionnelles, 
+Sous réserve de votre consentement, ces cookies sont installés via notre site par nos partenaires publicitaires. Ils peuvent être utilisés pour vous montrer des publicités ou du contenu personnalisés sur d'autres sites. Si vous n'autorisez pas ces cookies, vous bénéficierez de publicités/contenus moins ciblés.
 
-* empêcher, détecter et enquêter sur toutes activités potentiellement interdites et illégales et faire appliquer nos conditions générales de vente et d’utilisation, 
+Les cookies présents sur notre site Internet sont les suivants :
+![image](https://github.com/ETEOS-by-Authenticity/eteos-privacy/assets/120061655/6e7c8d25-3c14-423b-ac4b-1e972f69d78e)
 
-* respecter nos obligations légales et règlementaires. 
+#### Paramètres du navigateur:
+Vous pouvez modifier les paramètres de votre navigateur si vous souhaitez désactiver les cookies.
 
- 
+Veuillez vous référer à votre navigateur spécifique pour obtenir des instructions sur la façon de désactiver, limiter et supprimer les cookies. Les liens suivants sont fournis pour votre commodité. Cliquez sur le lien correspondant ci-dessous pour accéder à des informations détaillées concernant les paramètres des cookies.
 
-**Durée de conservation des données personnelles**
+Safari
+Google Chrome
+Microsoft Internet Explorer
+Firefox
+Vous pouvez également modifier les paramètres de votre navigateur pour être averti chaque fois qu'un cookie est déposé ou pour autoriser certaines catégories de cookies uniquement.
 
-ETEOS ne conserve pas vos données personnelles pour une durée excédant les finalités du traitement. Les périodes de conservation des données personnelles sont amenées à varier en fonction des catégories de données personnelles collectées. 
 
-En cas de contrat, vos données personnelles sont conservées pendant le temps nécessaire à l’exécution du contrat auquel vous avez souscrit. La durée de leur conservation commence à courir à la fin de la relation contractuelle. 
+### ARTICLE 9 – MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ
+Cette Politique de Confidentialité peut être mise à jour à tout moment pour respecter nos obligations légales en vigueur et assurer la transparence de tous les traitements relatifs à vos données personnelles en temps réel.
 
-Lorsque vos données personnelles sont collectées sur la base du consentement, vous pouvez retirer votre consentement à tout moment. 
+Les modifications entreront en vigueur dès la publication par ARIANEE de la politique de confidentialité mise à jour.
 
-Lorsque vos données personnelles sont collectées sur la base de l’intérêt légitime, ETEOS a un intérêt commercial à traiter vos données personnelles. Cette conservation est pertinente et non excessive. Le cas échéant, vous pouvez vous opposer à tout moment à un traitement de vos données personnelles basé sur l’intérêt légitime en contactant ETEOS. 
-
-Lorsque vos données personnelles sont collectées en raison d’une obligation légale ou lorsque vos données personnelles sont nécessaires pour que ETEOS puisse faire valoir ses droits ou se défendre en justice, ETEOS conservera vos données personnelles pendant le temps nécessaire ou bien jusqu'à ce que les litiges en cours soient résolus. 
-
- 
-
-**Protection des données personnelles des enfants**
-
-Les produits mis en vente par ETEOS ne sont pas destinés aux enfants. Un enfant au sens du Règlement sur la protection des données personnelles est une personne entre 13 et 16 ans en fonction des différents Etats membres de l’Union européenne. 
-
-ETEOS ne traite pas les données personnelles des enfants. Si les responsables légaux découvrent qu’un mineur a communiqué des données personnelles à ETEOS ils peuvent demander la suppression des données collectées en adressant un mail à l’adresse suivante : 
-
-bonjour@eteos.io 
-
- 
-
-**Cookies**
-
-Les cookies sont des fichiers enregistrés sur le disque dur de votre ordinateur lors de votre navigation sur Internet et notamment sur le site. Un cookie ne sert pas à recueillir des données personnelles à votre insu mais à enregistrer des informations relatives à votre navigation sur le site qui pourront être directement lues par ETEOS lors de vos visites et requêtes ultérieures sur le site (telles que par exemple : les pages que vous avez consultées, ou la date et l’heure de la consultation de ces pages). 
-
- 
-
-Par défaut, les cookies ne sont pas automatiquement installés (à l’exception des cookies nécessaires au fonctionnement du site et des services de ETEOS). 
-
-Conformément à la règlementation applicable, ETEOS sollicitera votre autorisation avant d’implanter tout autre type de cookies. 
-
-Afin d’éviter toute gêne occasionnée par ces demandes d’autorisations systématiques, et vous faire profiter d’une navigation fluide, nous pouvons mémoriser vos refus ou acceptations relatifs à certains cookies, ceci pour une durée n’excédant pas 13 mois. 
-
-Lorsque vous accédez, en cliquant sur leurs bandeaux ou liens publicitaires, à des sites tiers faisant de la publicité sur le site de ETEOS, ou éventuellement lorsque vous visualisez ces publicités, des cookies peuvent être créés par les sociétés diffusant ces publicités. 
-
-Ces tiers peuvent utiliser des cookies dans le cadre des services de ETEOS (partenaires, annonceurs ou autres tiers fournissant du contenu ou des services disponibles sur le site) mais ils sont responsables des cookies qu’ils mettent en place et ce sont donc leurs dispositions relatives aux cookies qui s’appliquent 
-
-ETEOS n’assume aucune responsabilité quant à l’éventuelle utilisation de cookies par ces tiers. Pour plus de précisions, il vous est conseillé de consulter directement sur ces sites annonceurs leur politique en matière d’utilisation de cookies. 
-
- 
-
-**Vos droits résultants de la loi informatique et libertés et du Règlement sur la protection des données personnelles.**
-
-Conformément à ces textes vous disposez d’un droit d'accès, de rectification, de suppression, d’opposition, de limitation du traitement et le cas échéant d’un droit à la portabilité des données vous concernant, ainsi que du droit de définir le sort de vos données après la mort. 
-
-Vous pouvez exercer vos différents droits auprès de ETEOS, par courrier électronique à l’adresse : 
-
-bonjour@eteos.io 
-
-Si vous vous opposez pour des motifs légitimes au traitement des données vous concernant, conformément à la règlementation en vigueur, votre demande doit être signée et accompagnée de la photocopie d’un titre d’identité portant votre signature et préciser l’adresse à laquelle doit vous parvenir la réponse. 
-
- 
-
-**Données bancaires et système d'analyse des commandes (détection de la fraude)**
-
-Les informations bancaires en rapport avec votre commande font l'objet d'un traitement automatisé de données dont les responsables sont ALMA – France et le GIE Carte Bancaire dans le cadre du protocole 3D Secure. Ce traitement automatisé de données a pour finalité de permettre l’authentification des personnes procédant à un paiement et de lutter contre la fraude à la carte bancaire. La survenance d'un impayé au motif d'une utilisation frauduleuse d'une carte bancaire entraînera l'inscription des coordonnées en rapport avec votre commande associée à cet impayé au sein d'un fichier incident de paiement mis en œuvre par le GIE Carte Bancaire. Une déclaration irrégulière ou une anomalie pourra également faire l'objet d'un traitement spécifique (notamment aux fins de détection de fraude). 
-
- 
-
-**Sécurité des données personnelles**
-
-ETEOS protège vos données personnelles et s’astreint à assurer leur confidentialité et leur sécurité. ETEOS a mis en place des mesures de sécurités physiques et organisationnelles pour prévenir l’altération, la destruction ou bien la divulgation de vos données personnelles. 
-
- 
-
-ETEOS limite l’accès à vos données personnelles aux personnels ou prestataires dûment autorisés. ETEOS ne collabore qu’avec des personnels ou prestataires soumis à une obligation contractuelle concernant la protection et la sécurité de vos données personnelles. 
-
-Pour aider ETEOS à protéger l’intégrité et la confidentialité vos données personnelles, vous devez impérativement sécuriser vos données en choisissant des mots de passe suffisamment complexes et ne pas communiquer vos mots de passe et données de connexion à des tiers. 
-
- 
-
-**Contact**
-
-Pour toute question concernant cette politique de protection des données personnelles de ETEOS ou pour toute demande relative à vos données personnelles, vous pouvez envoyer un courrier électronique à l’adresse électronique suivante : 
-
-bonjour@eteos.io 
-
-Révision de la politique de protection des données personnelles de ETEOS 
-
-La politique de protection des données personnelles de ETEOS peut être mise à jour en fonction des besoins de ETEOS. 
-
-En cas de contradiction entre plusieurs versions de la politique de protection des données personnelles de ETEOS c’est la version la plus récente qui prévaudra. 
+Par conséquent, nous vous recommandons de lire cette politique régulièrement.
