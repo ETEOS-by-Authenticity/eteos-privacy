@@ -106,12 +106,12 @@ Droit d'accès : vous pouvez obtenir des informations sur le traitement de vos d
 - Enfin, dans certains cas, notamment lorsque vous résidez en France, vous disposez du droit d'établir des directives générales ou particulières concernant le traitement de vos données personnelles en cas de votre décès et de les modifier à tout moment.
 
 Vous pouvez exercer les droits listés ci-dessus :
-- soit en nous contactant par courrier à l'adresse suivante : ARIANEE, à l'attention du Délégué à la Protection des Données ; ou
+- soit en nous contactant par courrier à l'adresse suivante : ETEOS, à l'attention du Délégué à la Protection des Données ; ou
 - en envoyant un e-mail à bonjour@eteos.io .
 
 Lorsque vous exercez l’un de vos droits ci-dessus, nous disposons d’un délai d’un mois après réception de la demande pour y répondre. Ce délai peut être prolongé de 2 mois supplémentaires, si nécessaire, en fonction de la complexité et du nombre de demandes. Dans ce cas, nous vous informerons d'une telle prolongation dans un délai d'un mois à compter de la réception de votre demande, en vous indiquant les raisons du retard.
 
-A défaut de réponse d'ARIANEE, si vous n'êtes pas satisfait de la réponse d'ARIANEE ou à tout moment, vous avez le droit d'introduire une réclamation auprès de l'autorité de contrôle compétente, en France, la CNIL (Commission Nationale de l'Informatique et des Libertés ) 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07, Tél : 01 53 73 22 22, www.cnil.fr .
+A défaut de réponse d'ARIANEE, si vous n'êtes pas satisfait de la réponse d'ETEOS ou à tout moment, vous avez le droit d'introduire une réclamation auprès de l'autorité de contrôle compétente, en France, la CNIL (Commission Nationale de l'Informatique et des Libertés ) 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07, Tél : 01 53 73 22 22, www.cnil.fr .
 
 ### ARTICLE 8 – COOKIES
 #### Qu'est-ce qu'un cookie ?
