@@ -1,5 +1,8 @@
 Mentions légales & Politique de confidentialité 
 
+Chez ETEOS, nous nous engageons à respecter votre vie privée et à protéger vos données personnelles.
+
+Dans cette politique de confidentialité, nous expliquons les types de données personnelles que nous collectons, comment nous les collectons, à quoi nous les utilisons et avec qui nous les partageons.
  
 
 ### MENTIONS LEGALES 
@@ -18,7 +21,7 @@ L'hébergement du Site est assuré par les sociétés :
 
  
 
-### VERSION MISE A JOUR LE 26 MAI 2023. 
+### VERSION MISE A JOUR LE 16 AVRIL 2024. 
 
 **Périmètre de la politique de protection des données personnelles de ETEOS**
 
