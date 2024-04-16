@@ -111,7 +111,7 @@ Vous pouvez exercer les droits listés ci-dessus :
 
 Lorsque vous exercez l’un de vos droits ci-dessus, nous disposons d’un délai d’un mois après réception de la demande pour y répondre. Ce délai peut être prolongé de 2 mois supplémentaires, si nécessaire, en fonction de la complexité et du nombre de demandes. Dans ce cas, nous vous informerons d'une telle prolongation dans un délai d'un mois à compter de la réception de votre demande, en vous indiquant les raisons du retard.
 
-A défaut de réponse d'ARIANEE, si vous n'êtes pas satisfait de la réponse d'ETEOS ou à tout moment, vous avez le droit d'introduire une réclamation auprès de l'autorité de contrôle compétente, en France, la CNIL (Commission Nationale de l'Informatique et des Libertés ) 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07, Tél : 01 53 73 22 22, www.cnil.fr .
+A défaut de réponse d'ETEOS, si vous n'êtes pas satisfait de la réponse d'ETEOS ou à tout moment, vous avez le droit d'introduire une réclamation auprès de l'autorité de contrôle compétente, en France, la CNIL (Commission Nationale de l'Informatique et des Libertés ) 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07, Tél : 01 53 73 22 22, www.cnil.fr .
 
 ### ARTICLE 8 – COOKIES
 #### Qu'est-ce qu'un cookie ?
@@ -154,6 +154,6 @@ Vous pouvez également modifier les paramètres de votre navigateur pour être a
 ### ARTICLE 9 – MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ
 Cette Politique de Confidentialité peut être mise à jour à tout moment pour respecter nos obligations légales en vigueur et assurer la transparence de tous les traitements relatifs à vos données personnelles en temps réel.
 
-Les modifications entreront en vigueur dès la publication par ARIANEE de la politique de confidentialité mise à jour.
+Les modifications entreront en vigueur dès la publication par ETEOS de la politique de confidentialité mise à jour.
 
 Par conséquent, nous vous recommandons de lire cette politique régulièrement.
